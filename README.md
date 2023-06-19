@@ -1,4 +1,4 @@
-# InfluxDB Action
+# InfluxDB Action [Token Support]
 
 This action downloads, installs, and configures an InfluxDB OSS instance and CLI tooling that can be used in your automation.
 
@@ -21,6 +21,7 @@ steps:
       influxdb_user: ci_user
       influxdb_password: password
       influxdb_bucket: dummy
+      influxdb_token: apitoken
 ```
 
 ### Install but don't start InfluxDB (influx CLI Tooling Only)
