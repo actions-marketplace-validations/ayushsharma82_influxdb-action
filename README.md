@@ -1,4 +1,4 @@
-# InfluxDB Action
+# InfluxDB Action [Token Support]
 
 This action downloads, installs, and configures an InfluxDB OSS instance and CLI tooling that can be used in your automation.
 
