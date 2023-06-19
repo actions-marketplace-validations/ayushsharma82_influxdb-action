@@ -1,4 +1,6 @@
-# InfluxDB Action [Token Support]
+# InfluxDB Action [API Token Support]
+
+**This Fork is exclusively for adding an API token for usage in github actions.**
 
 This action downloads, installs, and configures an InfluxDB OSS instance and CLI tooling that can be used in your automation.
 
