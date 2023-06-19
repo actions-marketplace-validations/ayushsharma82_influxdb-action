@@ -1,5 +1,5 @@
-name: 'InfluxDB Action'
-description: 'Install and configure InfluxDB and the InfluxDB CLI.'
+name: 'InfluxDB Action (API Token Support)'
+description: 'Install and configure InfluxDB and the InfluxDB CLI with added API token.'
 branding:
   icon: 'database'
   color: 'gray-dark'
