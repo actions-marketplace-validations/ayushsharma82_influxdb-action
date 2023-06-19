@@ -46,7 +46,7 @@ steps:
   - name: Setup InfluxDB
     uses: influxdata/influxdb-action@v3
     with:
-      influxdb_version: 2.0.7
+      influxdb_version: 2.6.1
       influxdb_org: influxdata
       influxdb_user: ci_user
       influxdb_password: password
